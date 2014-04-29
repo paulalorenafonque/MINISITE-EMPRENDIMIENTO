@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+ <html>
+     <head><meta charset="utf-8"/>
+       <meta name="descripcion" content="timemangago!">
+     <title>Time Manga Go! </title>
+         <link rel="stylesheet" href="Estilos.css"/>
+         <link rel="stylesheet" href="normalize.css"/>
+     </head>
+     <body>
+     <header>
+      <figure id="mello-2">
+        <img src="mello-2.jpg">
+      </figure>
+         <figure id="colombia">
+        <img src="colombia.png">
+       </figure>
+        <h1>TIME MANGA GO!</h1>
+         <figure id="face">
+        <img src="face.png">
+       </figure>
+         <figure id="twitt">
+        <img src="twitt.png">
+       </figure>
+         <figure id="tumblr-logo">
+        <img src="tumblr-logo.png">
+       </figure>
+         <figure id="youtube">
+        <img src="youtube.png">
+       </figure>
+         <figure id="bing">
+        <img src="bing.png">
+       </figure>
+         <figure id="inst">
+        <img src="inst.png">
+       </figure>
+         <figure id="google">
+        <img src="google.png">
+       </figure>
+         <figure id="pint">
+        <img src="pint.png">
+       </figure>
+     </header>
